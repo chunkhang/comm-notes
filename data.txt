@@ -1,16 +1,16 @@
 ## Chapter 1
 
 ! The channel
-@ The **means** by which **a message moves** from source to the receiver of the message
+@ The means by which a message moves from source to the receiver of the message
 % 
 ! Feedback
-@ Receiver’s verbal or non-verbal **response** to the source’s message
+@ Receiver’s verbal or non-verbal response to the source’s message
 % 
 ! Encoding
-@ The process of **translating an idea** or thought **into a code**
+@ The process of translating an idea or thought into a code
 % 
 ! Decoding
-@ The process of **assigning meaning** to that a idea or thought
+@ The process of assigning meaning to that a idea or thought
 % 
 ! Physical noise
 @ Outside the receiver making it difficult to listen and causing distraction
@@ -35,22 +35,22 @@
 @ Understanding of meaning does not happen unless both parties generate common meanings for words, phrases and non-verbal codes
 % 
 ! Dyadic communication
-@ The interaction **between a pair of individuals**
+@ The interaction between a pair of individuals
 % 
 ! Public communication
-@ The process of using messages to generate meaning in a situation in which **a single speaker** transmits a message **to a number of receivers**, who give non-verbal response or sometimes feedbacks
+@ The process of using messages to generate meaning in a situation in which a single speaker transmits a message to a number of receivers, who give non-verbal response or sometimes feedbacks
 % Lectures
 % Presentation in class
 % Stand-up comedy
 ! Mass communication
-@ The process of using messages to generate meaning **in a medaited system** (electronic/print media) between **a source** and **a large number of unseen receivers**
+@ The process of using messages to generate meaning in a mediated system (electronic/print media) between a source and a large number of unseen receivers
 % Twitter
 % YouTube
 % Newspaper
 % Television
 % Weblogs
 ! Digitally mediated communication
-@ A form of communication that is **conducted and shared through communication networks**; messages can be delivered and received **asynchronously** or **asynchronously**
+@ A form of communication that is conducted and shared through communication networks; messages can be delivered and received asynchronously or asynchronously
 % Email messages
 % Online discussion group threads
 % Snapchat
@@ -60,10 +60,10 @@
 @ Initiate message (As a source); The intended target of the message (As a receiver)
 % 
 ! Intrapersonal communication
-@ The process of using messages to generate meaning **within the self**
+@ The process of using messages to generate meaning within the self
 % Arguing with yourself in making a decision to accept or decline a request
 ! Small group communication
-@ The process of using messages to generate meaning **in a small group of people**
+@ The process of using messages to generate meaning in a small group of people
 % Families
 % A group of colleagues
 % Study groups
@@ -93,7 +93,7 @@
 % Businessman -> businessperson, business executive
 % Salesman -> Sales representative 
 ! Equivocal language
-@ Equivocal words or expression are words that **sound the same** but **have different meanings**; that can lead to confusion
+@ Equivocal words or expression are words that sound the same but have different meanings; that can lead to confusion
 % All the time, he lies
 % Cookies
 ! Use descriptiveness
