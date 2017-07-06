@@ -2,6 +2,7 @@
 
 Tabulated notes for Communication Skills final examination <br/>
 <br/>
+Source: [communication_skill_notes](https://github.com/kw7oe/communication_skill_notes) <br/>
 Data by: Kai Wern <br/>
 Edited by: Marcus Mu
 
@@ -17,8 +18,8 @@ Edited by: Marcus Mu
 
 ## Chapter 1
 
-No | Concept | Definition / Explanation | Example
--- | ------- | ------------------------ | -------
+No | Concept | Definition / Explanation | Examples
+-- | ------- | ------------------------ | --------
 01 | <p align="center">**The channel**</p> | The means by which a message moves from source to the receiver of the message | <p align="center">-</p>
 02 | <p align="center">**Feedback**</p> | Receiver’s verbal or non-verbal response to the source’s message | <p align="center">-</p>
 03 | <p align="center">**Encoding**</p> | The process of translating an idea or thought into a code | <p align="center">-</p>
@@ -42,8 +43,8 @@ No | Concept | Definition / Explanation | Example
 
 ## Chapter 3
 
-No | Concept | Definition / Explanation | Example
--- | ------- | ------------------------ | -------
+No | Concept | Definition / Explanation | Examples
+-- | ------- | ------------------------ | --------
 01 | <p align="center">**Slang**</p> | <p align="center">-</p> | <li>I can’t go to the show tonight, I’m ass out (out of luck)</li> <li>This report is going to be doozy (confusing, difficult hard)</li> <li>I am desperate for a Patrick (to pee)</li> <li>Got any Persians (heroin/drugs) on you mate?</li> <li>How is your Peter Pan (father)?</li> 
 02 | <p align="center">**Euphemism**</p> | Pleasant terms substituted for potentially less pleasant ones | <li>Garbage collector => Sanitation engineer</li> <li>Pornography => Adult entertainment</li> <li>Retarded => Mentally challenged</li> <li>Toilet => Washroom/Bathroom</li> 
 03 | <p align="center">**Gender-biased language**</p> | Excludes people on the basis of gender | <li>Chairman -> chair, chairperson</li> <li>Policeman -> police officer</li> <li>Businessman -> businessperson, business executive</li> <li>Salesman -> Sales representative </li> 
@@ -59,8 +60,8 @@ No | Concept | Definition / Explanation | Example
 
 ## Chapter 5
 
-No | Concept | Definition / Explanation | Example
--- | ------- | ------------------------ | -------
+No | Concept | Definition / Explanation | Examples
+-- | ------- | ------------------------ | --------
 01 | <p align="center">**Semantic distraction**</p> | Overresponding to an emotion - laden word/concept | <li>Not listening to the teacher when she mentions "Marxist theory"</li> 
 02 | <p align="center">**Factual distraction**</p> | Focusing too much on details and missing the main point | <li>You listened to the details of how Lee Chong Wei played in the second set but you cannot remember if he won the match</li> 
 03 | <p align="center">**Multitasking**</p> | Doing more than one task simultaneously | <li>Posting pictures on Instagram</li> <li>Listening to music while studying for exams</li> 
@@ -88,8 +89,8 @@ No | Concept | Definition / Explanation | Example
 
 ## Chapter 6
 
-No | Concept | Definition / Explanation | Example
--- | ------- | ------------------------ | -------
+No | Concept | Definition / Explanation | Examples
+-- | ------- | ------------------------ | --------
 01 | <p align="center">**Evaluation**</p> | Judgemental statements | <li>Use 'you' language</li> <li>"You don’t know what you’re talking about"</li> <li>"You’re not doing your best"</li> <li>"You talk too much"</li> 
 02 | <p align="center">**Description**</p> | Focusing on your thoughts and feelings, not the other person's | <li>Use 'I' language</li> <li>"When you don’t give me a chance to speak I get frustrated"</li> 
 03 | <p align="center">**Control**</p> | Imposing your solution on the other person | <li>"I know what's best for you"</li> 

@@ -13,7 +13,7 @@ def main():
 			'<br/>\n')
 		file.write('<br/>\n')
 		file.write('Source: [communication_skill_notes]' +
-			'(https://github.com/kw7oe/communication_skill_notes)\n')
+			'(https://github.com/kw7oe/communication_skill_notes) <br/>\n')
 		file.write('Data by: Kai Wern <br/>\n')
 		file.write('Edited by: Marcus Mu\n')
 		file.write('\n')
@@ -32,8 +32,8 @@ def main():
 				file.write('\n\n')
 				file.write(line+'\n')
 				file.write('\n')
-				file.write('No | Concept | Definition / Explanation | Example\n')
-				file.write('-- | ------- | ------------------------ | -------')
+				file.write('No | Concept | Definition / Explanation | Examples\n')
+				file.write('-- | ------- | ------------------------ | --------')
 				n = 0
 			elif '!' in line:
 				n += 1
