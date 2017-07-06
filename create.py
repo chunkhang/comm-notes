@@ -12,10 +12,12 @@ def main():
 		file.write('Tabulated notes for Communication Skills final examination ' +
 			'<br/>\n')
 		file.write('<br/>\n')
+		file.write('Source: [communication_skill_notes]' +
+			'(https://github.com/kw7oe/communication_skill_notes)\n')
 		file.write('Data by: Kai Wern <br/>\n')
 		file.write('Edited by: Marcus Mu\n')
 		file.write('\n')
-		file.write('#### Table of Contents\n')
+		file.write('### Table of Contents\n')
 		file.write('\n')
 		file.write('* [Chapter 1](#chapter-1)\n')
 		file.write('* [Chapter 3](#chapter-3)\n')

@@ -5,7 +5,7 @@ Tabulated notes for Communication Skills final examination <br/>
 Data by: Kai Wern <br/>
 Edited by: Marcus Mu
 
-#### Table of Contents
+### Table of Contents
 
 * [Chapter 1](#chapter-1)
 * [Chapter 3](#chapter-3)
