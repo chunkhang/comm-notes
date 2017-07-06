@@ -1,0 +1,285 @@
+## Chapter 1
+
+! The channel
+@ The **means** by which **a message moves** from source to the receiver of the message
+% 
+! Feedback
+@ Receiver’s verbal or non-verbal **response** to the source’s message
+% 
+! Encoding
+@ The process of **translating an idea** or thought **into a code**
+% 
+! Decoding
+@ The process of **assigning meaning** to that a idea or thought
+% 
+! Physical noise
+@ Outside the receiver making it difficult to listen and causing distraction
+% Construction in the next room makes it difficult to listen
+% Children running around in a restaurant distract one from paying attention
+! Psychological noise
+@ Forces within the receiver or sender that interferes with the ability to express or understand the message
+% A person who is upset over a negative comment is unable to listen to any positive feedback
+! Physiological noise
+@ Biological factors in the receiver or sender
+% Illness
+% Tiredness
+% Headache
+! Quantity does not increase quality
+@ More talking may not improve the conversation, but rather cause it to go down hill
+% Arguing with each other
+! Communication cannot be reversed
+@ You cannot take back what you have said
+% Be more careful in conversation
+% Take more time to prepare public presentations
+! Meaning rest in people not words
+@ Understanding of meaning does not happen unless both parties generate common meanings for words, phrases and non-verbal codes
+% 
+! Dyadic communication
+@ The interaction **between a pair of individuals**
+% 
+! Public communication
+@ The process of using messages to generate meaning in a situation in which **a single speaker** transmits a message **to a number of receivers**, who give non-verbal response or sometimes feedbacks
+% Lectures
+% Presentation in class
+% Stand-up comedy
+! Mass communication
+@ The process of using messages to generate meaning **in a medaited system** (electronic/print media) between **a source** and **a large number of unseen receivers**
+% Twitter
+% YouTube
+% Newspaper
+% Television
+% Weblogs
+! Digitally mediated communication
+@ A form of communication that is **conducted and shared through communication networks**; messages can be delivered and received **asynchronously** or **asynchronously**
+% Email messages
+% Online discussion group threads
+% Snapchat
+% WhatsApp
+% Facebook messages
+! People
+@ Initiate message (As a source); The intended target of the message (As a receiver)
+% 
+! Intrapersonal communication
+@ The process of using messages to generate meaning **within the self**
+% Arguing with yourself in making a decision to accept or decline a request
+! Small group communication
+@ The process of using messages to generate meaning **in a small group of people**
+% Families
+% A group of colleagues
+% Study groups
+! Self-monitoring
+@ Communication begins with the self
+% 
+
+## Chapter 3
+
+! Slang
+@ 
+% I can’t go to the show tonight, I’m ass out (out of luck)
+% This report is going to be doozy (confusing, difficult hard)
+% I am desperate for a Patrick (to pee)
+% Got any Persians (heroin/drugs) on you mate?
+% How is your Peter Pan (father)?
+! Euphemism
+@ Pleasant terms substituted for potentially less pleasant ones
+% Garbage collector => Sanitation engineer
+% Pornography => Adult entertainment
+% Retarded => Mentally challenged
+% Toilet => Washroom/Bathroom
+! Gender-biased language
+@ Excludes people on the basis of gender
+% Chairman -> chair, chairperson
+% Policeman -> police officer
+% Businessman -> businessperson, business executive
+% Salesman -> Sales representative 
+! Equivocal language
+@ Equivocal words or expression are words that **sound the same** but **have different meanings**; that can lead to confusion
+% All the time, he lies
+% Cookies
+! Use descriptiveness
+@ Improve language skill by checking perceptions, paraphrasing, user operational definitions and defining terms
+% 
+! Be concrete
+@ Use words that are specific rather than abstract or vague
+% Dating
+% Indexing
+! Dating
+@ Specify when you made an observation (opposite of a frozen evaluation)
+% English 101 is easy (not concrete)
+% English 101 is easy when I took it with Prof. Jones last year (dated)
+! Indexing
+@ Identify the uniqueness of objects, events and people (opposite of stereotyping)
+% Firstborn children are more responsible (not concrete)
+% In my family, the oldest child is the most responsible (indexed)
+! Grammatical errors
+@ 
+% Cigarette kill
+% May I borrow pencil?
+% Off the lights
+% Make a holiday
+! Ageist language
+@ Language that puts people down because they are old
+% Old folks home
+
+## Chapter 5
+
+! Semantic distraction
+@ Overresponding to an emotion - laden word/concept
+% Not listening to the teacher when she mentions "Marxist theory"
+! Factual distraction
+@ Focusing too much on details and missing the main point
+% You listened to the details of how Lee Chong Wei played in the second set but you cannot remember if he won the match
+! Multitasking
+@ Doing more than one task simultaneously
+% Posting pictures on Instagram
+% Listening to music while studying for exams
+! Status
+@ Paying attention to social ranking or perceived value of another
+% Not listening to your maid if she tells you something
+! Stereotypes
+@ Treating others as if they are the same as others in a given category
+% You assume that all quiet people are smart
+! Sight & sounds
+@ Letting appearance or vocal qualities affect listening
+% Refuse to listen to someone who speaks with a screechy voice
+! Egocentrism
+@ Excessive self-focus, or seeing self as central concern in conversations
+% Redirecting conversations to your own problems
+! Experiential superiority
+@ Looking down on others whom one considers has less experience
+% Not listening to those to those less experienced than you
+! Pseudolistening
+@ Pretending to listen but letting mind wander; listeners give the appearance of being attentive 
+% Daydreaming while your professor is lecturing
+! Defensive listening
+@ Listeners take innocent comments as personal attacks
+% 
+! Ambushing
+@ Listen carefully, but only collecting information to attack
+% 
+! Insulated listening
+@ Listeners avoid topic being raised
+% 
+! Insensitive listening
+@ Listeners who do not receive another person’s message clearly
+% 
+! Stage-hogging
+@ Turn the topic of conversations to themselves instead of showing interest in the speaker
+% 
+! Selective listening
+@ Responds only to the parts of a speaker’s remarks that interest them
+% 
+! Personal bias
+@ Letting one’s strongly held beliefs interfere with the ability to interpret information
+% Assuming that people are generally not be trusted
+! Mental distraction
+@ Wandering of the mind
+% Thinking about what to wear for your cousin’s wedding and not listening to the lecture
+! Physical distraction
+@ All the stimuli in the environment that interferes with one’s focus on a message 
+% Your neighbour's loud music is making it difficult for you to study
+! Physiological distraction
+@ Biological factors in the receiver or sender that interfere with accurate reception
+% After a late night out drinking, Bob had a hang-over and could not listen to the exam instructions
+! Defensiveness
+@ Acting threatened or feeling like one has to defend what is said or done
+% Assume other’s comments are a veiled criticism of you
+! Ways to improve - verbal
+@
+% Ask questions
+% Identify areas of agreement or common experience
+% Vary verbal utterances
+% Provide clear verbal feedback
+% Use descriptive, non evaluative responses
+% Provide affirmative and affirming statement
+% Avoid complete silence
+% Allow the other person the opportunity of a complete hearing
+! Ways to improve - non-verbal
+@
+% Demonstrate bodily responsiveness
+% Lean forward
+% Use direct body orientation
+% Maintain relaxed but alert posture
+% Establish an open body position
+% Use responsive facial expressions and head movement
+% Establish direct eye contact
+% Sit or stand close to the speaker
+% Be vocally responsive
+% Provide supportive utterances
+
+## Chapter 6
+
+! Evaluation
+@ Judgemental statements
+% Use 'you' language
+% "You don’t know what you’re talking about"
+% "You’re not doing your best"
+% "You talk too much"
+! Description
+@ Focusing on your thoughts and feelings, not the other person's
+% Use 'I' language
+% "When you don’t give me a chance to speak I get frustrated"
+! Control
+@ Imposing your solution on the other person
+% "I know what's best for you"
+! Problem orientation
+@ Finding a solution that satifies both of your needs
+% Find a win-win solution
+! Neutrality
+@ Indifference
+% "I don't care about you"
+% "You aren't important to me"
+! Empathy
+@ Putting yourself in the other person’s place
+% Non-verbal messages are important
+% Not the same as agreeing
+! Superiority
+@ Thinking you’re better than the other person
+% Being condescending
+% Offering unwanted advice
+! Equality
+@ Seeing the other person as having equal worth as human being; it does not mean you do not have greater talent or knowledge in certain areas
+% 
+! Strategy
+@ Manipulation; attempting to influence behaviour in a devious way
+% Making someone feel guilty to get what you want
+% Having a hidden motive
+! Spontaneity
+@ Being honest and truthful
+% Be straightforward about what you want
+! Non-assertion
+@ Inability or unwillingness to express thoughts or feelings in conflicts
+% Avoidance: Avoiding the person, changing topic or denying conflict exists
+% Accommodation: Giving in, putting the other's needs first
+! Direct aggression
+@ Direct confrontation in a way that attacks the other person’s position and even integrity; can be verbal or non-verbal
+% 
+! Passive aggression
+@ Expressing hostility in a way that is not obvious; more subtle than direct aggression but still aggression
+% Pseudo-accommodators: Pretend to agree
+% Guiltmakers: Make you feel responsible
+% Jokers: Use humour as a weapon
+% Trivial tyrannisers: Small things to annoy you
+% Withholders: Punish by withholding
+! Assertion
+@ Expressing needs, thoughts and feelings clearly and directly without judging or dictating others
+% Behavioral description (not judgemental)
+% Your interpretation of the other person’s behaviour
+% A description of your feelings
+% A description of the consequences
+% A statement of your intentions
+! Certainty
+@ Dogmatism; arrogant assertion of opinions as truths
+% Using terms such as "can't", "never" and "always"
+% "I know I'm right no matter what you say"
+! Provisionalism
+@ Admitting you might not know everything or might be wrong
+% Using terms such as "perhaps", "maybe" and "possibly"
+% "Even though I have a strong opinion, I am willing to change my mind if your point of view is more reasonable"
+! Self-disclosure
+@ Delibrately revealing personal information about oneself that would not normally be known to others (experience, attitude and feelings)
+% Increases with relational intimacy
+% Tends to be reciprocal & incremental
+% Likelihood of revealing negative information increases with intimacy
+% May be avoided at times
+% Culture is important
