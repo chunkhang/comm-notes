@@ -16,7 +16,7 @@ Edited by: Marcus Mu
 
 <a name="chapter-1"/>
 
-## Chapter 1
+## Chapter 1 - Introduction to Human Communication
 
 No | Concept | Definition / Explanation | Examples
 -- | ------- | ------------------------ | --------
@@ -44,7 +44,7 @@ No | Concept | Definition / Explanation | Examples
 
 <a name="chapter-3"/>
 
-## Chapter 3
+## Chapter 3 - Language and Meaning
 
 No | Concept | Definition / Explanation | Examples
 -- | ------- | ------------------------ | --------
@@ -63,7 +63,7 @@ No | Concept | Definition / Explanation | Examples
 
 <a name="chapter-5"/>
 
-## Chapter 5
+## Chapter 5 - Listening and Critical Thinking
 
 No | Concept | Definition / Explanation | Examples
 -- | ------- | ------------------------ | --------
@@ -92,7 +92,7 @@ No | Concept | Definition / Explanation | Examples
 
 <a name="chapter-6"/>
 
-## Chapter 6
+## Chapter 6 - Interpersonal Communication
 
 No | Concept | Definition / Explanation | Examples
 -- | ------- | ------------------------ | --------
