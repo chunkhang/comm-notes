@@ -37,9 +37,9 @@ No | Concept | Definition / Explanation | Examples
 15 | <p align="center">**People**</p> | Initiate message (As a source); The intended target of the message (As a receiver) | <p align="center">-</p>
 16 | <p align="center">**Intrapersonal communication**</p> | The process of using messages to generate meaning within the self | <li>Arguing with yourself in making a decision to accept or decline a request</li> 
 17 | <p align="center">**Small group communication**</p> | The process of using messages to generate meaning in a small group of people | <li>Families</li> <li>A group of colleagues</li> <li>Study groups</li> 
-18 | <p align="center">**Self-monitoring**</p> |Being aware of one’s behavior;Being aware of the impression it makes;Using these observations to shape the way one behaves|
-19 | <p align="center">**Empathy**</p> | Understanding the other person’s point of view;The ability to image how an issue might look from the other’s point of view;Helps us understand others and give information to develop strategies about how to best influence them.|
-20 | <p align="center">**Cognitive complexity**</p> |The ability to construct a variety of frameworks;The ability to analyze the behavior of others in a variety of ways.|
+18 | <p align="center">**Self-monitoring**</p> | Being aware of one’s behavior; Being aware of the impression it makes; Using these observations to shape the way one behaves | <p align="center">-</p>
+19 | <p align="center">**Empathy**</p> | Understanding the other person’s point of view; The ability to imagine how an issue might look from the other’s point of view; Helps us understand others and give information to develop strategies about how to best influence them. | <p align="center">-</p>
+20 | <p align="center">**Cognitive complexity**</p> |The ability to construct a variety of frameworks; the ability to analyze the behavior of others in a variety of ways.| <p align="center">-</p>
 
 
 <a name="chapter-3"/>
