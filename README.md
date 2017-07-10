@@ -69,7 +69,7 @@ No | Concept | Definition / Explanation | Examples
 -- | ------- | ------------------------ | --------
 01 | <p align="center">**Semantic distraction**</p> | Overresponding to an emotion - laden word/concept | <li>Not listening to the teacher when she mentions "Marxist theory"</li> 
 02 | <p align="center">**Factual distraction**</p> | Focusing too much on details and missing the main point | <li>You listened to the details of how Lee Chong Wei played in the second set but you cannot remember if he won the match</li> 
-03 | <p align="center">**Multitasking**</p> | Doing more than one task simultaneously | <li>Posting pictures on Instagram, listening to music while studying for exams</li> 
+03 | <p align="center">**Multitasking**</p> | Doing more than one task simultaneously | <li>Posting pictures on Instagram and listening to music while studying for exams</li> 
 04 | <p align="center">**Status**</p> | Paying attention to social ranking or perceived value of another | <li>Not listening to your maid if she tells you something</li> 
 05 | <p align="center">**Stereotypes**</p> | Treating others as if they are the same as others in a given category | <li>You assume that all quiet people are smart</li> 
 06 | <p align="center">**Sight & sounds**</p> | Letting appearance or vocal qualities affect listening | <li>Refuse to listen to someone who speaks with a screechy voice</li> 
