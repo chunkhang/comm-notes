@@ -82,7 +82,7 @@ No | Concept | Definition / Explanation | Examples
 13 | <p align="center">**Insensitive listening**</p> | Listeners who do not receive another person’s message clearly | <p align="center">-</p>
 14 | <p align="center">**Stage-hogging**</p> | Turn the topic of conversations to themselves instead of showing interest in the speaker | <p align="center">-</p>
 15 | <p align="center">**Selective listening**</p> | Responds only to the parts of a speaker’s remarks that interest them | <p align="center">-</p>
-16 | <p align="center">**Personal bias**</p> | Letting one’s strongly held beliefs interfere with the ability to interpret information | <li>Assuming that people are generally not be trusted</li> 
+16 | <p align="center">**Personal bias**</p> | Letting one’s strongly held beliefs interfere with the ability to interpret information | <li>Assuming that people are generally not to be trusted</li> 
 17 | <p align="center">**Mental distraction**</p> | Wandering of the mind | <li>Thinking about what to wear for your cousin’s wedding and not listening to the lecture</li> 
 18 | <p align="center">**Physical distraction**</p> | All the stimuli in the environment that interferes with one’s focus on a message  | <li>Your neighbour's loud music is making it difficult for you to study</li> 
 19 | <p align="center">**Physiological distraction**</p> | Biological factors in the receiver or sender that interfere with accurate reception | <li>After a late night out drinking, Bob had a hang-over and could not listen to the exam instructions</li> 
