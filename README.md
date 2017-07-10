@@ -96,7 +96,7 @@ No | Concept | Definition / Explanation | Examples
 
 No | Concept | Definition / Explanation | Examples
 -- | ------- | ------------------------ | --------
-01 | <p align="center">**Evaluation**</p> | Judgmental statements | <li>Use 'you' language</li> <li>"You don’t know what you’re talking about"</li> <li>"You’re not doing your best"</li> <li>"You talk too much"</li> 
+01 | <p align="center">**Evaluation**</p> | Judgemental statements | <li>Use 'you' language</li> <li>"You don’t know what you’re talking about"</li> <li>"You’re not doing your best"</li> <li>"You talk too much"</li> 
 02 | <p align="center">**Description**</p> | Focusing on your thoughts and feelings, not the other person's | <li>Use 'I' language</li> <li>"When you don’t give me a chance to speak I get frustrated"</li> 
 03 | <p align="center">**Control**</p> | Imposing your solution on the other person | <li>"I know what's best for you"</li> 
 04 | <p align="center">**Problem orientation**</p> | Finding a solution that satisfies both of your needs | <li>Find a win-win solution</li> 
